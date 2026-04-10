@@ -329,6 +329,15 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
+## Changelog
+
+### v0.2.0 (2026-04-10)
+- Added Changelog section to README for release traceability
+- Advanced agent reliability features: circuit breaker, LLM-aware retry, idempotency, loop detection, timeout enforcement
+
+### v0.1.0
+- Initial release: production fault tolerance for AI agents
+
 ## Links
 
 - **PyPI**: https://pypi.org/project/agentguard/
