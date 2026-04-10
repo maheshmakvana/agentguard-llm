@@ -314,32 +314,18 @@ result = guard.run(crew.kickoff, action_label="crew_task")
 
 ## Contributing
 
-Contributions are welcome. Please open an issue first to discuss what you would like to change.
+Contributions are welcome! Here's how to get started:
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Run tests: `pytest tests/ -v`
-4. Submit a pull request
+1. Fork the repository on [GitHub](https://github.com/maheshmakvana/agentguard-llm)
+2. Create a feature branch: `git checkout -b feature/your-feature`
+3. Make your changes and add tests
+4. Run the test suite: `pytest tests/ -v`
+5. Submit a pull request
 
----
+Please open an issue first for major changes to discuss the approach.
 
-## License
+## Author
 
-MIT License. See [LICENSE](LICENSE) for details.
+**Mahesh Makvana** — [GitHub](https://github.com/maheshmakvana) · [PyPI](https://pypi.org/user/maheshmakvana/)
 
----
-
-## Changelog
-
-### v0.2.0 (2026-04-10)
-- Added Changelog section to README for release traceability
-- Advanced agent reliability features: circuit breaker, LLM-aware retry, idempotency, loop detection, timeout enforcement
-
-### v0.1.0
-- Initial release: production fault tolerance for AI agents
-
-## Links
-
-- **PyPI**: https://pypi.org/project/agentguard/
-- **GitHub**: https://github.com/agentguard-ai/agentguard
-- **Issues**: https://github.com/agentguard-ai/agentguard/issues
+MIT License
