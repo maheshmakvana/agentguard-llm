@@ -1,3 +1,5 @@
+![agentguard-llm Banner](assets/images/banner.svg)
+
 # agentguard — Production-Grade Fault Tolerance for AI Agents
 
 [![PyPI version](https://badge.fury.io/py/agentguard.svg)](https://pypi.org/project/agentguard/)
